@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: msa01
+
+server:
+    port: 8080
